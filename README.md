@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- ⚡ Fun fact **I don't know why i am learning this.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
