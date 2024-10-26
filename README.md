@@ -5,10 +5,12 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
+- ⚡ Fun fact **I don't know why i am learning this.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neepanb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neepanb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neepanbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neepanbiswas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neepan-biswas-5b8357300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neepan-biswas-5b8357300" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/neepanb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="neepanb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neepanb009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neepanb009" height="30" width="40" /></a>
 </p>
